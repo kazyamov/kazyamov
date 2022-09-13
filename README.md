@@ -18,8 +18,9 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 ## I’m currently working on
   * [Youtube for my kid-students](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/) in Skysmart school
   * Graphic design posts for [Instagram account about Python](https://instagram.com/kazyamov) 
-  * Pet-project free CRM for self-employed on Django 
 <!--
+  * Pet-project free CRM for self-employed on Django 
+
 ## I’m currently learning ...
 
 ## 👯 I’m looking to collaborate on ...
