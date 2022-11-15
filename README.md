@@ -11,7 +11,7 @@ The beginning of my career was working in a small online store in Krasnoyarsk. I
 
 As an online store manager, I have been involved in sales and customer service for 2 regional and 3 federal online stores for 6 years.
 
-After that, I began to look for opportunities to work remotely and influence processes more, so I started freelancing in the field of marketing and design.
+After that, I began to look for opportunities to work remotely and influence processes more, so I started freelancing in the field of social media marketing and graphic design.
 
 Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
 
