@@ -33,6 +33,6 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 ## Contacts
 
-* **Telegram**: [@kazyamov](https://t.me/kazyamov)
+* **Telegram**: [@kaziamov](https://t.me/kaziamov)
 * **Instagram**: [@ilyakazyamov](https://instagram.com/ilyakazyamov)
 * **LinkedIn**: [Ilia Kaziamov](https://linkedin.com/in/kaziamov)
