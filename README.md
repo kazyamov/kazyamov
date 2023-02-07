@@ -1,3 +1,5 @@
+
+
 <!--### Hi there 👋
 
 
@@ -36,3 +38,6 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 * **Telegram**: [@kaziamov](https://t.me/kaziamov)
 * **Instagram**: [@ilyakazyamov](https://instagram.com/ilyakazyamov)
 * **LinkedIn**: [Ilia Kaziamov](https://linkedin.com/in/kaziamov)
+
+## Badges
+![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)
