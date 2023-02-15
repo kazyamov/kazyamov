@@ -33,11 +33,12 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 ## ⚡ Fun fact: ...
 -->
 
+## Badges
+[![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/kaziamov/)
+
+[![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/users/kaziamov)
+
 ## Contacts
 
 * **Telegram**: [@kaziamov](https://t.me/kaziamov)
-* **Instagram**: [@ilyakazyamov](https://instagram.com/ilyakazyamov)
 * **LinkedIn**: [Ilia Kaziamov](https://linkedin.com/in/kaziamov)
-
-## Badges
-![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)
