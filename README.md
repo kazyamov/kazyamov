@@ -39,6 +39,9 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 * Whatsapp: [+79059977450](https://wa.me/79059977450)
 * LinkedIn: [in/kaziamov](https://www.linkedin.com/in/kaziamov)
 
+### Resume
+* LinkedIn: [Resume (EN)](https://www.linkedin.com/in/kaziamov)
+* HabrCareer: [Resume (RU)](https://career.habr.com/kaziamov)
 
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/kaziamov/)
