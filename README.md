@@ -18,7 +18,7 @@ After that, I began to look for opportunities to work remotely and influence pro
 Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
 
 ## I’m currently working on
-  * [Youtube about Python](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/)
+  * [Youtube channel about Python](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/)
   * [Content creating](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov) for my LinkedIn account
   * [Graphic design posts](https://instagram.com/kaziamov_) for Instagram account about Python
 <!--
