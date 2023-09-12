@@ -21,6 +21,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
   * [Youtube channel about Python](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1)
   * [Content creating](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov) for my LinkedIn account
   * [Graphic design posts](https://instagram.com/kaziamov_) for Instagram account about Python
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--
   * Pet-project free CRM for self-employed on Django
 
@@ -49,7 +54,5 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 [![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/r/N0so6Q)
 
-## How is it going? Very well...
-<!--START_SECTION:waka-->
+<!-- ## How is it going? Very well... -->
 
-<!--END_SECTION:waka-->
