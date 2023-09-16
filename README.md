@@ -36,7 +36,7 @@ Makefile            35 mins         ▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-  * Pet-project free CRM for self-employed on Django
+## What I'm planning to do
 
 ## I’m currently learning ...
 
