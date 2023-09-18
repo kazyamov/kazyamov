@@ -26,11 +26,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python              25 hrs 20 mins  █████████████████████▓░░░   86.67 %
-Markdown            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Makefile            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-TOML                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-HTML                23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python           23 hrs 12 mins  ██████████████████████░░░   87.70 %
+Markdown         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+HTML             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TOML             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+YAML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
