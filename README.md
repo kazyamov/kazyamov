@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 ## About
 
-The beginning of my career was working in a small online store in Krasnoyarsk. I was fascinated by working with clients and improving order picking and delivery algorithms.
+The beginning of my career was working in a small online store in Krasnoyarsk (Syberia). I was fascinated by working with clients and improving order picking and delivery algorithms.
 
 As an online store manager, I have been involved in sales and customer service for 2 regional and 3 federal online stores for 6 years.
 
@@ -19,6 +19,7 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 ## I’m currently working on
   * Youtube [channel](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) about Python [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYspuehThql30psLWg3c-fA)](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) 
+  * And [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) 
   * Content creating  for my [LinkedIn account](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov)
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
   * And writing code (my last week stats):
