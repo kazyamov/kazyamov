@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 ## About
 
-The beginning of my career was working in a small online store in Krasnoyarsk (Syberia). I was fascinated by working with clients and improving order picking and delivery algorithms.
+The beginning of my career was working in a small online store in Krasnoyarsk (Siberia). I was fascinated by working with clients and improving order picking and delivery algorithms.
 
 As an online store manager, I have been involved in sales and customer service for 2 regional and 3 federal online stores for 6 years.
 
