@@ -27,11 +27,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python           19 hrs 55 mins  █████████████████████▓░░░   86.35 %
-Markdown         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-YAML             57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-TOML             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Docker           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python           18 hrs 57 mins  █████████████████████▒░░░   85.51 %
+Markdown         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+YAML             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+TOML             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Docker           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
