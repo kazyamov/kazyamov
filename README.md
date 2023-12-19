@@ -27,11 +27,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 hrs 4 mins   ████████████████████████▒   97.36 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Dart         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       22 hrs 6 mins   ████████████████████████▓   98.62 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Dart         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
