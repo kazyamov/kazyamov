@@ -24,18 +24,6 @@ Over time, I rethought my career and realized that I was fascinated by the techn
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
   * And writing code (my last week stats):
 
-<!--START_SECTION:waka-->
-
-```txt
-Python     3 hrs 7 mins    ████████████████████████▒   97.76 %
-Bash       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
 <!--
 ## What I'm planning to do
 
