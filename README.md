@@ -22,7 +22,7 @@ Over time, I rethought my career and realized that I was fascinated by the techn
   * And [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) 
   * Content creating  for my [LinkedIn account](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov)
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
-  * And writing code (my last week stats):
+  * And writing code
 
 <!--
 ## What I'm planning to do
