@@ -24,6 +24,9 @@ Over time, I rethought my career and realized that I was fascinated by the techn
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
   * And writing code
 
+## My projects that may be useful to you
+* [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners
+
 <!--
 ## What I'm planning to do
 
