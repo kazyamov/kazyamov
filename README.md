@@ -30,8 +30,15 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
+```rust
+From: 03 August 2023 - To: 16 November 2024
+
+Total Time: 1,189 hrs 22 mins
+
+Python                     1,056 hrs 55 mins>>>>>>>>>>>>>>>>>>>>>>---   87.55 %
+HTML                       19 hrs 58 mins  -------------------------   01.66 %
+Markdown                   19 hrs 53 mins  -------------------------   01.65 %
+Other                      17 hrs 49 mins  -------------------------   01.48 %
 ```
 
 <!--END_SECTION:waka-->
