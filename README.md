@@ -17,15 +17,20 @@ After that, I began to look for opportunities to work remotely and influence pro
 
 Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
 
+## My projects
+* [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners
+
+
 ## I’m currently working on
   * Youtube [channel](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) about Python [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYspuehThql30psLWg3c-fA)](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) 
   * And [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) 
   * Content creating  for my [LinkedIn account](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov)
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
-  * And writing code
+  * And writing code (my last week's stats exclude my work time):
 
-## My projects that may be useful to you
-* [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 ## What I'm planning to do
@@ -39,16 +44,16 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 ## 😄 Pronouns: ...
 ## ⚡ Fun fact: ...
 -->
-## Contacts
 
+## Contacts
 * Email: [kaziamov@outlook.com](mailto:kaziamov@outlook.com)
 * Telegram: [@kaziamov](https://t.me/kaziamov)
 * Whatsapp: [+79059977450](https://wa.me/79059977450)
 * LinkedIn: [in/kaziamov](https://www.linkedin.com/in/kaziamov)
 
-### Resume
+## Resume
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/kaziamov)
-* HabrCareer: [Resume (RU)](https://career.habr.com/kaziamov)
+
 
 ## Badges
 [![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/kaziamov/)
