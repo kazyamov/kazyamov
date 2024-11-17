@@ -21,3 +21,9 @@ jobs:
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           TIME_RANGE: all_time
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Ilia Kaziamov
+          AUTHOR_EMAIL: kaziamov@outlook.com
