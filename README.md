@@ -31,18 +31,9 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 86 hrs 1 min
+Total Time: 0 secs
 
-Python             77 hrs 49 mins  ██████████████████████▓░░   90.47 %
-Markdown           3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-CSV/TSV            59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-TOML               42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Text               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-GitIgnore file     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML               32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-YAML               29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON               21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-textmate           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
