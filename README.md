@@ -30,15 +30,19 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 03 August 2023 - To: 16 November 2024
+```txt
+Total Time: 86 hrs 1 min
 
-Total Time: 1,189 hrs 22 mins
-
-Python                     1,056 hrs 55 mins>>>>>>>>>>>>>>>>>>>>>>---   87.55 %
-HTML                       19 hrs 58 mins  -------------------------   01.66 %
-Markdown                   19 hrs 53 mins  -------------------------   01.65 %
-Other                      17 hrs 49 mins  -------------------------   01.48 %
+Python             77 hrs 49 mins  ██████████████████████▓░░   90.47 %
+Markdown           3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+CSV/TSV            59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TOML               42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GitIgnore file     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+HTML               32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+YAML               29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JSON               21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+textmate           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
