@@ -29,6 +29,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
   * And writing code (my last week's stats exclude my work time):
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
