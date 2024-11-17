@@ -32,10 +32,13 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 ```txt
 Python                     1,056 hrs 55 mins██████████████████████░░░   87.55 %
-YAML                       25 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 HTML                       19 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 Markdown                   19 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Other                      17 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Docker                     10 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Text                       8 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Makefile                   8 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Dockerfile                 4 hrs 23 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
