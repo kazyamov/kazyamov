@@ -31,8 +31,6 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
-
 No activity tracked
 ```
 
