@@ -31,7 +31,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                     1,056 hrs 55 mins██████████████████████░░░   87.55 %
+YAML                       25 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+HTML                       19 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown                   19 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Other                      17 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
