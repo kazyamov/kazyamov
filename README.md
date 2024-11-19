@@ -31,14 +31,14 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     1,056 hrs 55 mins██████████████████████░░░   87.34 %
+Python                     1,057 hrs 43 mins█████████████████████▓░░░   87.18 %
 HTML                       20 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Markdown                   19 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 Other                      17 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Docker                     10 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Text                       8 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Makefile                   8 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Dockerfile                 4 hrs 23 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Docker                     10 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Text                       8 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Makefile                   8 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript                 4 hrs 52 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
