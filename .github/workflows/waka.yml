@@ -20,9 +20,9 @@ jobs:
           LOCALE: "en"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          IGNORED_LANGUAGES: YAML JSON TOML
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          IGNORED_LANGUAGES: YAML JSON TOML Makefile Text Markdown
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Ilia Kaziamov
