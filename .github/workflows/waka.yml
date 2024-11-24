@@ -20,7 +20,7 @@ jobs:
           LOCALE: "en"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
-          TIME_RANGE: last_7_days
+          TIME_RANGE: last_30_days
           LANG_COUNT: 5
           IGNORED_LANGUAGES: YAML JSON TOML Makefile Text Markdown
           COMMITTER_NAME: GitHubActionBot
