@@ -22,7 +22,7 @@ jobs:
           SHOW_EDITORS: "True"
           TIME_RANGE: last_30_days
           LANG_COUNT: 5
-          IGNORED_LANGUAGES: YAML JSON TOML Makefile Text Markdown "GitIgnore file"
+          IGNORED_LANGUAGES: YAML JSON TOML Makefile Text Markdown "GitIgnore file" "Env File"
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Ilia Kaziamov
