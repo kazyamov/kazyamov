@@ -62,6 +62,7 @@ SQL              0 secs          ░░░░░░░░░░░░░░░�
 
 ## Resume
 * LinkedIn: [Resume (EN)](https://www.linkedin.com/in/kaziamov)
+* HabrCareer: [Resume (RU)](https://career.habr.com/kaziamov)
 
 
 ## Badges
