@@ -2,6 +2,8 @@
 
 Backend Developer with experience in eCommerce and MedTech
 
+// If you're looking to hire me, my profile might look abandoned because I use Bitbucket at work
+
 <!--
 ## About
 
