@@ -30,12 +30,13 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     20 hrs 38 mins  ███████████████▓░░░░░░░░░   62.46 %
-JavaScript                 3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Go                         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Bash                       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Docker                     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-CSS                        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python                     20 hrs 38 mins  █████████████▓░░░░░░░░░░░   54.86 %
+JavaScript                 3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Go                         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Bash                       1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Docker                     41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Nginx configuration file   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+CSS                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
