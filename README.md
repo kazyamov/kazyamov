@@ -30,11 +30,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     45 hrs 5 mins   ███████████████░░░░░░░░░░   60.21 %
-PHP                        1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash                       1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Docker                     1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other                      1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python                     46 hrs 8 mins   ███████████████░░░░░░░░░░   59.89 %
+Bash                       1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+PHP                        1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Docker                     1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other                      1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
