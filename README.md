@@ -30,12 +30,11 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     40 hrs 21 mins  ██████████████▓░░░░░░░░░░   59.08 %
-JavaScript                 1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Bash                       1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-PHP                        1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-TypeScript                 1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Docker                     1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Python                     43 hrs 17 mins  ██████████████▒░░░░░░░░░░   57.94 %
+JavaScript                 2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+TypeScript                 1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Bash                       1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+PHP                        1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
