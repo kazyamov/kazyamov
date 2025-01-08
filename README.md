@@ -21,8 +21,8 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 
 
 ### I’m currently working on
-  * Youtube [channel](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) about Python [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYspuehThql30psLWg3c-fA)](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) 
-  * And [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) 
+  * [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYspuehThql30psLWg3c-fA)](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) - Youtube [channel](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/?sub_confirmation=1) about Python 
+  * [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYLIThkSR1JmUoxLXtc-S9w)](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) - [channel](https://www.youtube.com/channel/UCYLIThkSR1JmUoxLXtc-S9w/?sub_confirmation=1) about lifestyle, remote work and hobbies  
   * Content creating  for my [LinkedIn account](https://www.linkedin.com/feed/hashtag/?keywords=kaziamov)
   * Creating a graphic design for my [Instagram account](https://instagram.com/kaziamov_) about Python
   * And writing code```*```:
