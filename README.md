@@ -15,7 +15,7 @@ After that, I began to look for opportunities to work remotely and influence pro
 Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
 -->
 ### My projects
-* [Library for easy CRUD operations with database](https://github.com/hexfrost/simplecrud) [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-simplecrud)](https://pepy.tech/projects/hexfrost-simplecrud)
+* [Python library](https://github.com/hexfrost/simplecrud) for easy CRUD operations with database [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-simplecrud)](https://pepy.tech/projects/hexfrost-simplecrud)
 * [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/kaziamov.quickstart-python-pack)
 
 
