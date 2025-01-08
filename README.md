@@ -38,7 +38,7 @@ PHP                        1 hr 18 mins    ▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
- ```* - last 30 days stats```
+ ```* - last year stats```
 
 <!--
 ## What I'm planning to do
