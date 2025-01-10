@@ -30,10 +30,9 @@ Over time, I rethought my career and realized that I was fascinated by the techn
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     557 hrs 17 mins █████████████████████░░░░   84.12 %
-JavaScript                 6 hrs 21 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Docker                     4 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash                       3 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python                     558 hrs 56 mins █████████████████████░░░░   83.71 %
+JavaScript                 7 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Docker                     4 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
