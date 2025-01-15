@@ -1,6 +1,12 @@
 # Ilia Kaziamov
 
-Backend Developer with experience in eCommerce and MedTech
+I am a Backend Developer **with 3+ years of experience** and have been working in teams ranging from 3 to 31 members, both remotely and on-site. I have 2 years of mentoring experience. I have built the full cycle of development: from gathering product owner requirements to establishing a fully automated release process with high test coverage, detailed analytics, and continuous integration/delivery. I am passionate about backend development and interested in e-commerce services. In my free time, I build a technical community for beginner developers and create content for my blog and YouTube channel.
+
+I am seeking a product-oriented company that values a strong engineering culture, including practices like TDD and CI/CD
+
+### Skills
+**Backend**: Python, Django, DRF, Flask, FastAPI, AWS, Postgres, MongoDB, djangorestframework, asyncio, asyncpg, sqlalchemy…,, linux, pytest, poetry, uv
+**Others**: React, TypeScript, Git, Docker, Prometheus, Grafana, Figma, Photoshop, Jira, Ubuntu
 
 <!--
 ## About
