@@ -6,6 +6,7 @@ I am seeking a product-oriented company that values a strong engineering culture
 
 ### Skills
 **Backend**: Python, Django, DRF, Flask, FastAPI, AWS, Postgres, MongoDB, djangorestframework, asyncio, asyncpg, sqlalchemy…,, linux, pytest, poetry, uv
+
 **Others**: React, TypeScript, Git, Docker, Prometheus, Grafana, Figma, Photoshop, Jira, Ubuntu
 
 <!--
